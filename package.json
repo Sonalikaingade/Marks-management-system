@@ -1,0 +1,27 @@
+{
+  "name": "sem_6_mini_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "body-parser": "^1.20.2",
+    "cookie-parser": "^1.4.6",
+    "csvjson": "^5.1.0",
+    "csvtojson": "^2.0.10",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.10.0",
+    "multer": "^1.4.5-lts.1",
+    "path": "^0.12.7",
+    "xlsx": "^0.18.5",
+    "xlsx-to-csv": "^1.0.1"
+  }
+}
